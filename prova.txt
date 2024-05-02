@@ -1,0 +1,1 @@
+uso do syscall 10 sera obrigatorio na provaS
