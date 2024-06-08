@@ -9,7 +9,6 @@ ori $t3, $zero, 3  #incializa z com 3
 
 add $t5, $t1, $t1 # soma x com x
 add $t5, $t5, $t5 # soma 2x com 2x = 4x
-
 add $t6, $t2, $t2 # soma y com y
 
 add $t7, $t3, $t3 # soma z com z
