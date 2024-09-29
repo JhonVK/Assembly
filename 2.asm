@@ -19,5 +19,4 @@ sll $t7, $t7, 4
 
 ori $t7, $t7, 0x7
 sll $t7, $t7, 4
-
 ori $t7, $t7, 0x0
