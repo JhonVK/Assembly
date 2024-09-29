@@ -19,7 +19,6 @@ add $t9, $t3, $t4
 
 sw $t9, ($t6)
 
-
 addi $t1, $t1, 4
 addi $t2, $t2, 4
 addi $t6, $t6, 4
