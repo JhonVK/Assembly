@@ -24,7 +24,6 @@ addi $t2, $t2, 4
 addi $t6, $t6, 4
 subi $s0, $s0, 1
 
-
 bne $s0, $zero, inicio
 li $v0, 10
 
